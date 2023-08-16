@@ -1,23 +1,23 @@
-## Project 1
-Description
-- Tags: Category 1
+## The Odin Project
+Coding educational project 
+- Tags: TOP
 - Badges:
-  - Badge [blue]
+  - +10 [blue]
 - Buttons:
   - Link [https://example.com]
 
-## Project 2
-Description
-- Tags: Category 2
+## JavasCript 30
+30 JS exercises 
+- Tags: JS-30
 - Badges:
-  - Badge [blue]
+  - 30 [blue]
 - Buttons:
   - Link [https://example.com]
 
-## Project 3
-Description
-- Tags: Category 3
+## Codewars
+Logic Practice
+- Tags: Codewars
 - Badges:
-  - Badge [blue]
+  - 7 kyu[blue]
 - Buttons:
   - Link [https://example.com]

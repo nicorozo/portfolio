@@ -1,26 +1,41 @@
-## Project A
-Description
-- ![600x200](https://via.placeholder.com/600x200)
-- Tags: Category 1
+## Nobel Prize API
+Real time integration with Nobel Prize API 
+- ![600x200](../assets/Nobel%20Prize%20Api.png)
+- Tags: Nobel Prize API
 - Badges:
-  - Badge [blue]
+  - React [blue]
+  - Vite [blue]
 - Buttons:
-  - Link [https://example.com]
+  - Try it [https://bright-stardust-02cb60.netlify.app/]
 
-## Project B
-Description
-- ![600x200](https://via.placeholder.com/600x200)
-- Tags: Category 2
+## Pine Website
+Maintainance Website, fully responsive, MUI framework.
+- ![600x200](../assets/Screen%20Shot%202023-07-18%20at%2014.11.34.png)
+- Tags: Pine Maintainance
 - Badges:
-  - Badge [blue]
+  - Ressponsive [blue]
+  - React [blue]
+  - Vite [blue]
+  - MUI[blue]
 - Buttons:
-  - Link [https://example.com]
+  - Try it [https://example.com]
 
-## Project C
-Description
-- ![600x200](https://via.placeholder.com/600x200)
-- Tags: Category 3
+## Elaborum
+Health and Security Website
+- ![600x200](../assets/Elaborum.png)
+- Tags: Elaborum S.A
 - Badges:
-  - Badge [blue]
+  - HTML [blue]
+  - CSS [blue]
+  - BEM [blue]
 - Buttons:
-  - Link [https://example.com]
+  - Try it [https://nicorozo.github.io/elaborum/]
+
+## Elite State
+Generic but functional Real State project with React and Frameworks implementation
+- ![600x200](../assets/Elite%20Estate.png)
+- Tags: Elite State
+- Badges:
+  - Responsive [blue]
+- Buttons:
+  - Try it [https://nicorozo.github.io/elite_estate/]

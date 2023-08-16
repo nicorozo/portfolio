@@ -23,16 +23,16 @@ import OtherProjectsArray from "./OtherProjectsArray";
 import TagsArray from "./TagsArray";
 
 export default function Projects({ color }) {
-    const projects = ProjectsArray();
-    const others = OtherProjectsArray();
-    const options = TagsArray("ProjectsTags");
-    
-    const [selected, setSelected] = useState("All");
+  const projects = ProjectsArray();
+  const others = OtherProjectsArray();
+  const options = TagsArray("ProjectsTags");
 
-    const handleSelected = (value) => {
-      setSelected(value);
-    };
-    
+  const [selected, setSelected] = useState("All");
+
+  const handleSelected = (value) => {
+    setSelected(value);
+  };
+
   return (
     <>
       <Container maxW={"3xl"} id="projects">
@@ -45,7 +45,7 @@ export default function Projects({ color }) {
           <Stack align="center" direction="row" p={4}>
             <HStack mx={4}>
               <Text color={`${color}.400`} fontWeight={800}>
-                03
+                02
               </Text>
               <Text fontWeight={800}>Projects</Text>
             </HStack>
